@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://tomba.io/api
 common:
+  - type: VulnerabilityDisclosure
+    url: security/tomba-email-finder-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/tomba-email-finder-domain-security.yml
   - type: Website
     url: https://tomba.io/api
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://tomba.io/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
