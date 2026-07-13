@@ -1,0 +1,21 @@
+{
+  "repo": "tomba-email-finder",
+  "feeds": [
+    {
+      "source": "https://tomba.io/blog",
+      "feed_url": "https://tomba.io/blog/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://github.com/public-apis/public-apis",
+      "feed_url": "https://github.com/public-apis/public-apis",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 9
+}
