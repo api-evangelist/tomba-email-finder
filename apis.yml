@@ -1,4 +1,16 @@
 aid: tomba-email-finder
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tomba-email-finder.png
 name: Tomba email finder
 description: "Email Finder for B2B sales and email marketing and email verifier"
 url: https://tomba.io/api
