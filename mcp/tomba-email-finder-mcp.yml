@@ -1,0 +1,95 @@
+generated: '2026-09-11'
+method: probed
+source: https://mcp.tomba.io/mcp
+status: published
+server:
+  name: tomba-email-finder
+  transport: http
+  url: https://mcp.tomba.io/mcp
+deployment:
+  mode: remote
+  endpoint: https://mcp.tomba.io/mcp
+  verified: probed
+  probe: live
+  checked: '2026-09-11'
+  source: docs-check 2026-09-12 (endpoint found in the provider's own documentation, then probed)
+tools_count: 38
+tools:
+- name: account_info
+  description: ''
+- name: author_finder
+  description: ''
+- name: autocomplete
+  description: ''
+- name: combined_enrichment
+  description: ''
+- name: companies_search
+  description: ''
+- name: company_enrichment
+  description: ''
+- name: create_flag
+  description: ''
+- name: create_lead
+  description: ''
+- name: domain_search
+  description: ''
+- name: domain_status
+  description: ''
+- name: email_count
+  description: ''
+- name: email_enrichment
+  description: ''
+- name: email_finder
+  description: ''
+- name: email_format
+  description: ''
+- name: email_sources
+  description: ''
+- name: email_verifier
+  description: ''
+- name: get_logs
+  description: ''
+- name: linkedin_finder
+  description: ''
+- name: list_flags
+  description: ''
+- name: list_keys
+  description: ''
+- name: list_leads
+  description: ''
+- name: location
+  description: ''
+- name: mpp_author_finder
+  description: ''
+- name: mpp_domain_search
+  description: ''
+- name: mpp_email_count
+  description: ''
+- name: mpp_email_enrichment
+  description: ''
+- name: mpp_email_finder
+  description: ''
+- name: mpp_email_verifier
+  description: ''
+- name: mpp_linkedin_finder
+  description: ''
+- name: mpp_phone_finder
+  description: ''
+- name: mpp_phone_validator
+  description: ''
+- name: mpp_similar_finder
+  description: ''
+- name: person_enrichment
+  description: ''
+- name: phone_finder
+  description: ''
+- name: phone_validator
+  description: ''
+- name: similar_finder
+  description: ''
+- name: technology_finder
+  description: ''
+- name: usage_info
+  description: ''
+tools_source: live tools/list via initialize handshake, 2026-09-12 (signals/audit_mcp_authorship.py --probe)
+authorship: provider
