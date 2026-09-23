@@ -1,0 +1,27 @@
+# Front Door AI Index — tomba-email-finder — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: tomba-email-finder
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: tomba.io
+  final_host: tomba.io
+  ownership: own
+  owner: tomba-email-finder
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 6
+  host_score: 6
+  density: 2.99
+  words: 2007
+  tiers:
+    agentic: 0
+    core: 6
+    model: 0
+  ambiguous: 3
+  top_terms:
+    AI: 6
+    automation: 2
+    intelligence: 1
