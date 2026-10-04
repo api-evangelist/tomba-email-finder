@@ -39,7 +39,6 @@ apis:
   - name: Tomba email finder
     description: "Email Finder for B2B sales and email marketing and email verifier"
     humanURL: https://tomba.io/api
-    baseURL: https://tomba.io/api
     tags:
       - Business
     properties:
