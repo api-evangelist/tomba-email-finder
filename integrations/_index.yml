@@ -45,7 +45,7 @@
     app_slug: tomba
     beta: false
     builder: unknown (not in the directory record)
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
 - slug: tomba-email-finder-n8n
   label: n8n
@@ -72,7 +72,7 @@
     published: '2026-09-03T15:24:58.870Z'
     matched_on: publisher-email
     builder: provider (package published from the provider's own domain)
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
 - slug: tomba-email-finder-pipedream
   label: Pipedream
@@ -98,5 +98,5 @@
     actions: true
     sources: false
     builder: Pipedream repo (component)
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
